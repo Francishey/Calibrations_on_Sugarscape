@@ -1,3 +1,5 @@
+## Calibrations on Sugarscape Model
+
 auxiliary_plot_generation.ipynb -- generate all the plots in this paper
 
 main_loop_for_the_whole_project.ipynb -- generate all analysis including HM, PMR, ABC base, SMC and SA, also produce the data stored in the folder 'alldata'
